@@ -5,6 +5,7 @@ App demo que consume **APIs de Mercado Libre** para:
 1. Buscar productos
 2. Ver resultados
 3. Ver detalle de un producto
+4. Link con video de la app funcionando: https://drive.google.com/file/d/1uUOTFd4cGpuNENu3xg4DUqq5GzDtCqyR/view?usp=sharing
 
 Construida con **Jetpack Compose**, **Hilt**, **Retrofit/Moshi**, **Coroutines/Flow** y **Navigation**. Incluye manejo de errores (dev + usuario), logs y **tests unitarios**.
 
